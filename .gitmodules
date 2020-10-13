@@ -1,0 +1,4 @@
+[submodule "packages/vue-loader"]
+	path = packages/vue-loader
+	url = https://github.com/thomasgauthier/vue-loader.git
+	branch = next
